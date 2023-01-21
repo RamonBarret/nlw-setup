@@ -1,5 +1,5 @@
 # NLW Setup - Trilha Ignite
->Projeto em Dessenvolvimento no momento 🏗🚧
+>Projeto em Desenvolvimento no momento 🏗🚧
 ## 💻 Projeto
 
 Projeto sendo desenvolvido como resultado dos aprendizados obtidos no <strong>NLW Setup da Rocketseat</strong>. Estou desenvolvendo um <strong>App de Controle de Hábitos</strong> junto com os instrutores, evoluindo na programação ↗.
