@@ -10,6 +10,10 @@ Projeto sendo desenvolvido como resultado dos aprendizados obtidos no <strong>NL
   <img alt="nlw-setup" src=".github/preview-web.PNG">
 </p>
 
+## Preview - Mobile
+
+> Está sendo desenvolvida ◾◾◾
+
 ### Estudos
 
 - [x] Banco de dados utilizando a tecnologia <strong>Prisma</strong>
