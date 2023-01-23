@@ -17,6 +17,7 @@ O Projeto está sendo desenvolvido como resultado dos aprendizados obtidos no <s
 
 - [x] Banco de dados utilizando a tecnologia <strong>Prisma</strong>
 - [x] Desenvolvimento das APIS
+- [x] Construção do Layout da aplicação com React a parte Web e React-Native a parte Mobile
 
 ## Tecnologias 🛠
 
