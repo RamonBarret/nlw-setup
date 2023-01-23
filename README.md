@@ -14,13 +14,13 @@ O Projeto está sendo desenvolvido como resultado dos aprendizados obtidos no <s
 > Tela - Splash
 
 <p align="center">
-  <img alt="mobile-splash" src=".github/splashMob.jpg">
+  <img alt="mobile-splash" src=".github/splashMob.PNG">
 </p>
 
 > Tela - Preview
 
 <p align="center">
-  <img alt="mobile-preview" src=".github/previewMob.jpg">
+  <img alt="mobile-preview" src=".github/previewMob.PNG">
 </p>
 
 - [x] Ainda está em desenvolvimento, layout quase pronto
