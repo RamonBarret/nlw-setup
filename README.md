@@ -11,7 +11,19 @@ O Projeto está sendo desenvolvido como resultado dos aprendizados obtidos no <s
 
 ## Preview - Mobile
 
-> Está sendo desenvolvida ◾◾◾
+> Tela - Splash
+
+<p align="center">
+  <img alt="mobile-splash" src=".github/splashMob.jpg">
+</p>
+
+> Tela - Preview
+
+<p align="center">
+  <img alt="mobile-preview" src=".github/previewMob.jpg">
+</p>
+
+- [x] Ainda está em desenvolvimento, layout quase pronto
 
 ### Estudos
 
