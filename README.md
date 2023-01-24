@@ -26,7 +26,7 @@ O Projeto está sendo desenvolvido como resultado dos aprendizados obtidos no <s
 
 - [x] Ainda está em desenvolvimento, layout quase pronto
 
-### Estudos
+## Estudos 👨🏽‍💻
 
 - [x] Banco de dados utilizando a tecnologia <strong>Prisma</strong>
 - [x] Desenvolvimento das APIS
