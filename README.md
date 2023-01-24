@@ -4,7 +4,7 @@
 
 O Projeto está sendo desenvolvido como resultado dos aprendizados obtidos no <strong>NLW Setup da Rocketseat</strong>. Estou desenvolvendo um <strong>App de Controle de Hábitos</strong> junto com os instrutores, evoluindo na programação ↗.
 
-## Preview - WEB
+## Preview - WEB 🌎
 <p align="center">
   <img alt="nlw-setup" src=".github/preview-web.PNG">
 </p>
@@ -15,7 +15,7 @@ O Projeto está sendo desenvolvido como resultado dos aprendizados obtidos no <s
 </p>
 
 
-## Preview - Mobile
+## Preview - Mobile 📱
 
 > Telas
 
