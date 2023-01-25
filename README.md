@@ -26,6 +26,11 @@ O Projeto está sendo desenvolvido como resultado dos aprendizados obtidos no <s
 
 - [x] Ainda está em desenvolvimento, layout quase pronto
 
+## Modelo ERD da aplicação
+> Banco de Dados - Relacional
+
+<img alt="Diagrama ERD" src=".github/ERD.svg" height="800px"/>
+
 ## Estudos 👨🏽‍💻
 
 - [x] Banco de dados utilizando a tecnologia <strong>Prisma</strong>
