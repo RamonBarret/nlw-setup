@@ -24,8 +24,6 @@ O Projeto está sendo desenvolvido como resultado dos aprendizados obtidos no <s
 </p>
 
 
-- [x] Ainda está em desenvolvimento, layout quase pronto
-
 ## Modelo ERD da aplicação 🏦🎲
 > Banco de Dados - Relacional
 
