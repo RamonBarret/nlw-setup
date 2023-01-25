@@ -29,7 +29,7 @@ O Projeto está sendo desenvolvido como resultado dos aprendizados obtidos no <s
 ## Modelo ERD da aplicação 🏦🎲
 > Banco de Dados - Relacional
 
-<img alt="Diagrama ERD" src=".github/ERD.svg" height="800px"/>
+<img alt="Diagrama ERD" src=".github/ERD.svg" height="450px"/>
 
 ## Estudos 👨🏽‍💻
 
