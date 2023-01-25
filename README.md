@@ -57,7 +57,7 @@ Você pode visualizar o layout do projeto através do link abaixo:
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
-## BootCamp fornecido pela - Rocketseat ⚡
+## Bootcamp Rocketseat ⚡
 - <a target="_blank" href="https://www.rocketseat.com.br/">Site Rocketseat</a>
 
 ## Aluno 👨🏽‍🎓
