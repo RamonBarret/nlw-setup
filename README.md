@@ -31,7 +31,8 @@ O Projeto está sendo desenvolvido como resultado dos aprendizados obtidos no <s
 - [x] Criação do <strong>SQL Raw</strong> (SQL na mão), possibilitando deixar as <em>Querys</em> mais complexas (mais Condições e Relacionamentos)
 - [x] Criação de PopOver e Modais, utilização da biblioteca <strong>Radix-UI</strong> (para fornecer acessibilidade ao usuário com alguma deficiência) - Web e Mobile
 - [x] Conexão do Back-end com o Front-end, utilizando a biblioteca <strong>Axios</strong>
-- [x] Utilização do <strong>Try</strong> and <strong>Catch</strong>, para tratar possíveis erros da melhor forma.
+- [x] Utilização do <strong>Try</strong> and <strong>Catch</strong>, para tratar possíveis erros da melhor forma
+- [x] Foi adicionado configurações de <strong>Transitions</strong> e <strong>Focus</strong> no projeto, deixando as ações em tela mais dinâmicas e interativas com animações 
 
 ## Tecnologias 🛠
 
