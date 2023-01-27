@@ -7,7 +7,7 @@ O Projeto está sendo desenvolvido como resultado dos aprendizados obtidos no <s
 ## Preview - WEB 🌎
 
 > Aperte o <strong>play</strong> para visualizar o gif!
-![preview](.github/previewWeb.gif)
+![preview](.github/previewWeb.mp4)
 
 ## Preview - Mobile 📱
 
