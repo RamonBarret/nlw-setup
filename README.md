@@ -6,14 +6,8 @@ O Projeto está sendo desenvolvido como resultado dos aprendizados obtidos no <s
 
 ## Preview - WEB 🌎
 <p align="center">
-  <img alt="nlw-setup" src=".github/preview-web.PNG">
+  <img alt="nlw-setup" src=".github/previeWeb.gif">
 </p>
-
->Tela - ao apertar o botão <strong>Novo</strong>
-<p align="center">
-  <img alt="tela-novo" src=".github/previewpop-web.PNG">
-</p>
-
 
 ## Preview - Mobile 📱
 
