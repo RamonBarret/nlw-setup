@@ -8,7 +8,7 @@ O Projeto está sendo desenvolvido como resultado dos aprendizados obtidos no <s
 
 > Aperte o <strong>play</strong> para visualizar o gif!
 <p align="center">
-  <img width="220" height="500" src=".github/mobilePreview.gif">
+  <img width="250" height="480" src=".github/mobilePreview.gif">
 </p>
 
 ## Preview - WEB 🌎
