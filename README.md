@@ -36,7 +36,7 @@
 >Tópicos relevantes
 
 - [x] Banco de dados utilizando a tecnologia <strong>Prisma</strong>
-- [x] Desenvolvimento das Api
+- [x] Desenvolvimento da Api
 - [x] Construção do Layout da aplicação com React a parte Web e React-Native a parte Mobile
 - [x] Criação do <strong>SQL Raw</strong> (SQL na mão), possibilitando deixar as <em>Querys</em> mais complexas (mais Condições e Relacionamentos)
 - [x] Criação de PopOver e Modais, utilização da biblioteca <strong>Radix-UI</strong> (para fornecer acessibilidade ao usuário com alguma deficiência) - Web e Mobile
