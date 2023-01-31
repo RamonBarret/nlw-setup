@@ -1,4 +1,4 @@
-# NLW Setup - <img alt="fav-habits" src=".github/logo.PNG">
+# NLW Setup - <img alt="fav-habits" src=".github/habits.PNG">
 
 >Trilha Ignite
 
