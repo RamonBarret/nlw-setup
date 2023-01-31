@@ -12,10 +12,12 @@ O Projeto está sendo desenvolvido como resultado dos aprendizados obtidos no <s
 ## Preview - Mobile 📱
 
 > Telas
-
 <p align="center">
   <img alt="mobile-preview" src=".github/previewMobile.PNG">
 </p>
+
+> Aperte o <strong>play</strong> para visualizar o gif!
+![preview](.github/mobilePreview.gif)
 
 
 ## Modelo ERD da aplicação 🏦🎲
@@ -23,7 +25,9 @@ O Projeto está sendo desenvolvido como resultado dos aprendizados obtidos no <s
 
 <img alt="Diagrama ERD" src=".github/ERD.svg" height="450px"/>
 
-## Estudos 👨🏽‍💻
+## Estudo Geral 📖👨🏽‍💻
+
+>Tópicos relevantes
 
 - [x] Banco de dados utilizando a tecnologia <strong>Prisma</strong>
 - [x] Desenvolvimento das Api's
@@ -32,7 +36,9 @@ O Projeto está sendo desenvolvido como resultado dos aprendizados obtidos no <s
 - [x] Criação de PopOver e Modais, utilização da biblioteca <strong>Radix-UI</strong> (para fornecer acessibilidade ao usuário com alguma deficiência) - Web e Mobile
 - [x] Conexão do Back-end com o Front-end, utilizando a biblioteca <strong>Axios</strong>
 - [x] Utilização do <strong>Try</strong> and <strong>Catch</strong>, para tratar possíveis erros da melhor forma
-- [x] Foi adicionado configurações de <strong>Transitions</strong> e <strong>Focus</strong> no projeto, deixando as ações em tela mais dinâmicas e interativas com animações 
+- [x] Foi adicionado configurações de <strong>Transitions</strong> e <strong>Focus</strong> no projeto Web, deixando as ações em tela mais dinâmicas e interativas com animações
+- [x] Foi utilizado a biblioteca <strong>Animated</strong> do React Native no projeto Mobile, deixando as ações em tela mais dinâmicas e interativas com animações 
+
 
 ## Tecnologias 🛠
 
