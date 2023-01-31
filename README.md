@@ -17,7 +17,9 @@ O Projeto está sendo desenvolvido como resultado dos aprendizados obtidos no <s
 </p>
 
 > Aperte o <strong>play</strong> para visualizar o gif!
-![preview](.github/mobilePreview.gif)
+<p align="center">
+  <img width="200" height="400" src=".github/mobilePreview.gif">
+</p>
 
 
 ## Modelo ERD da aplicação 🏦🎲
