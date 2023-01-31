@@ -1,8 +1,16 @@
-# NLW Setup - Trilha Ignite
->Projeto em Desenvolvimento no momento 🏗🚧
-## 💻 Projeto
+# NLW Setup - Habits
+>Trilha Ignite
 
-O Projeto está sendo desenvolvido como resultado dos aprendizados obtidos no <strong>NLW Setup da Rocketseat</strong>. Estou desenvolvendo um <strong>App de Controle de Hábitos</strong> junto com os instrutores, evoluindo na programação ↗.
+<p align="center">
+  <img width="300" height="300" src=".github/adaptive-icon.png">
+</p>
+
+<p align="justify">
+  O Projeto foi desenvolvido como resultado dos aprendizados obtidos no <strong>NLW Setup da Rocketseat</strong>. Junto com os instrutores criamos um <strong>App de Controle de Hábitos</strong>, uma grande experiência que me fez evoluir ainda mais na programção.
+</p>
+<p align="justify">
+  Utilizando as tecnologias do <strong>React</strong> e <strong>React Native</strong> para desenvolver a aplicação em Web e Mobile, além do desenvolvimento do Servidor do projeto com o Banco de Dados e a realização da conexão do <em>Client(Web e Mobile)</em> com a <em>Api(Server)</em>.
+</p>
 
 ## Preview - Mobile 📱
 
