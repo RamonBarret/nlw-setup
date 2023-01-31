@@ -1,4 +1,4 @@
-# NLW Setup -{''}<img alt="fav-habits" src=".github/adaptive-icon.png">
+# NLW Setup - <img alt="fav-habits" src=".github/adaptive-icon.png">
 
 >Trilha Ignite
 
