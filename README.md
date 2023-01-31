@@ -2,7 +2,7 @@
 >Trilha Ignite
 
 <p align="center">
-  <img width="300" height="300" src=".github/adaptive-icon.png">
+  <img width="100" height="100" src=".github/adaptive-icon.png">
 </p>
 
 <p align="justify">
