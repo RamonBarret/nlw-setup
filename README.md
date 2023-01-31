@@ -8,7 +8,7 @@
   O Projeto foi desenvolvido como resultado dos aprendizados obtidos no <strong>NLW Setup da Rocketseat</strong>. Junto com os instrutores criamos um <strong>App de Controle de Hábitos</strong>, uma grande experiência que me fez evoluir ainda mais na programção.
 </p>
 <p align="justify">
-  Utilizando as tecnologias do <strong>React</strong> e <strong>React Native</strong> para desenvolver a aplicação em Web e Mobile, além do desenvolvimento do Servidor do projeto com o Banco de Dados e a realização da conexão do <em>Client(Web e Mobile)</em> com a <em>Api(Server)</em>.
+  Utilizando as tecnologias do <strong>React</strong> e <strong>React Native</strong> para desenvolver a aplicação em Web e Mobile, além do desenvolvimento do Servidor do projeto com o Banco de Dados e a realização da conexão do <strong><em>Client (Web e Mobile)</em></strong> com a <strong><em>Api (Server)</em></strong>.
 </p>
 
 ## Preview - Mobile 📱
