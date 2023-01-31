@@ -4,22 +4,17 @@
 
 O Projeto está sendo desenvolvido como resultado dos aprendizados obtidos no <strong>NLW Setup da Rocketseat</strong>. Estou desenvolvendo um <strong>App de Controle de Hábitos</strong> junto com os instrutores, evoluindo na programação ↗.
 
+## Preview - Mobile 📱
+
+> Aperte o <strong>play</strong> para visualizar o gif!
+<p align="center">
+  <img width="300" height="650" src=".github/mobilePreview.gif">
+</p>
+
 ## Preview - WEB 🌎
 
 > Aperte o <strong>play</strong> para visualizar o gif!
 ![preview](.github/preview-web.gif)
-
-## Preview - Mobile 📱
-
-> Telas
-<p align="center">
-  <img alt="mobile-preview" src=".github/previewMobile.PNG">
-</p>
-
-> Aperte o <strong>play</strong> para visualizar o gif!
-<p align="center">
-  <img width="200" height="400" src=".github/mobilePreview.gif">
-</p>
 
 
 ## Modelo ERD da aplicação 🏦🎲
