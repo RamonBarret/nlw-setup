@@ -1,9 +1,6 @@
-# NLW Setup - Habits
->Trilha Ignite
+# NLW Setup -{''}<img alt="fav-habits" src=".github/adaptive-icon.png">
 
-<p align="center">
-  <img width="100" height="100" src=".github/adaptive-icon.png">
-</p>
+>Trilha Ignite
 
 <p align="justify">
   O Projeto foi desenvolvido como resultado dos aprendizados obtidos no <strong>NLW Setup da Rocketseat</strong>. Junto com os instrutores criamos um <strong>App de Controle de Hábitos</strong>, uma grande experiência que me fez evoluir ainda mais na programção.
