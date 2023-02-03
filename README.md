@@ -15,7 +15,7 @@
 
 > Aperte o <strong>play</strong> para visualizar o gif!
 <p align="center">
-  <img height="425" width="700" src=".github/preview-web.gif">
+  <img height="425" width="650" src=".github/preview-web.gif">
   <img height="425" src=".github/mobilePreview.gif">
 </p>
 
