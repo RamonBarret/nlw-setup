@@ -11,7 +11,7 @@
   Utilizando as tecnologias do <strong>React</strong> e <strong>React Native</strong> para desenvolver a aplicação em Web e Mobile, além do desenvolvimento do Servidor do projeto com o Banco de Dados e a realização da conexão do <strong><em>Back-end</em></strong> com o <strong><em>Front-end</em></strong>.
 </p>
 
-## Preview - Mobile and WEB 🌎📱
+## Preview - Mobile e WEB 🌎📱
 
 > Aperte o <strong>play</strong> para visualizar o gif!
 <p align="center">
