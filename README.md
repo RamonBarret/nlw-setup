@@ -16,7 +16,7 @@
 > Aperte o <strong>play</strong> para visualizar o gif!
 <p align="center">
   <img height="425" src=".github/mobilePreview.gif">
-  <img height="425" src=".github/preview-web.gif">
+  <img height="425" width="800" src=".github/preview-web.gif">
 </p>
 
 ## Modelo ERD da aplicação 🏦🎲
