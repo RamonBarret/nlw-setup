@@ -11,20 +11,13 @@
   Utilizando as tecnologias do <strong>React</strong> e <strong>React Native</strong> para desenvolver a aplicação em Web e Mobile, além do desenvolvimento do Servidor do projeto com o Banco de Dados e a realização da conexão do <strong><em>Back-end</em></strong> com o <strong><em>Front-end</em></strong>.
 </p>
 
-## Preview - Mobile 📱
+## Preview - Mobile and WEB 🌎📱
 
 > Aperte o <strong>play</strong> para visualizar o gif!
 <p align="center">
-  <img width="250" height="480" src=".github/mobilePreview.gif">
+  <img height="425" src=".github/mobilePreview.gif">
+  <img height="425" src=".github/preview-web.gif">
 </p>
-
-## Preview - WEB 🌎
-
-> Aperte o <strong>play</strong> para visualizar o gif!
-<p align="center">
-  <img width="800" height="420" src=".github/preview-web.gif">
-</p>
-
 
 ## Modelo ERD da aplicação 🏦🎲
 > Banco de Dados - Relacional
