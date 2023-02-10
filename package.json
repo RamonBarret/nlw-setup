@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "expo-auth-session": "^3.8.0",
+    "expo-random": "^13.0.0",
+    "react-use-auth": "^2.1.0-14"
+  }
+}

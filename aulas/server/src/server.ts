@@ -1,18 +1,41 @@
-import Fastify from "fastify";
+import Fastify from 'fastify'
 import cors from '@fastify/cors'
-import { appRoutes } from "./routes";
+import jwt from '@fastify/jwt'
 
-const app = Fastify()
+import { habitEvery } from './routes/habitEvery'
+import { habitDay } from './routes/habitDay'
+import { habitSummary } from './routes/habitSummary'
+import { habitToggle } from './routes/habitToggle'
 
-/*access permitions - app.register(cors, {
-    origin: ['http://localhost:3000']
-}) */
-app.register(cors) 
-app.register(appRoutes)
+import { authRoutes } from './routes/auth'
+import { userRoutes } from './routes/user'
 
-app.listen({
-    port: 3333,
-    host: "0.0.0.0",
-}) .then((url) => {
-console.log(`HTTP Server running! ${url}`)
-})
+async function bootstrap() {
+    const app = Fastify()
+  
+    await app.register(cors
+      // origin: ['http:localhost:3003']
+    )
+    
+    await app.register(jwt, {
+      secret: 'ioioioioiooioioioioi',
+    })
+  
+  
+    await app.register(habitEvery)
+    await app.register(habitDay)
+    await app.register(habitSummary)
+    await app.register(habitToggle)
+    await app.register(authRoutes)
+    await app.register(userRoutes)
+    // await app.register(notificationRoutes)
+
+    app.listen({
+        port: 3333,
+        host: "0.0.0.0",
+    }) .then((url) => {
+    console.log(`HTTP Server running! ${url}`)
+    })
+  }
+  
+  bootstrap();
