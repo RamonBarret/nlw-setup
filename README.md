@@ -66,8 +66,5 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 ## Bootcamp Rocketseat ⚡
 - <a target="_blank" href="https://www.rocketseat.com.br/">Site Rocketseat</a>
 
-## Aluno 👨🏽‍🎓
-
-- <a target="_blank" href="https://www.linkedin.com/in/ramon-barreto-076191180/">Ramon Barreto</a>
 
 
