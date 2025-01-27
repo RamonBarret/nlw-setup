@@ -70,7 +70,4 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
 - <a target="_blank" href="https://www.linkedin.com/in/ramon-barreto-076191180/">Ramon Barreto</a>
 
-## Contato 📲
-
-- Email: ramon_barreto_medrado@hotmail.com
 
